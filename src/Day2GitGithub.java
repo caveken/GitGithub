@@ -74,6 +74,6 @@ hepsi bu kadar
 
         //cavidan branch degisiklik
         System.out.println("branch deneme1");
-
+        System.out.println("master deneme1");
     }
 }
