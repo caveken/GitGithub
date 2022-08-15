@@ -69,6 +69,8 @@ hepsi bu kadar
      */
     public static void main(String[] args) {
         System.out.println("github i ogrendim");
+        
+        //githubi ogrendim
 
     }
 }
