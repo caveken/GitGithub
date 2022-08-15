@@ -72,5 +72,8 @@ hepsi bu kadar
         
         //githubi ogrendim
 
+        //cavidan branch degisiklik
+        System.out.println("branch deneme1");
+
     }
 }
