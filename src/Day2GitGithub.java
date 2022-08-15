@@ -77,6 +77,7 @@ hepsi bu kadar
         System.out.println("master deneme1");
         System.out.println("2. branch deneme1");
         System.out.println("master deneme2");
+        System.out.println("2. branch deneme2");
 
     }
 }
