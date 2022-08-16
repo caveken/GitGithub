@@ -47,12 +47,13 @@ PS C:\GitGithub> git push -u origin master
 
 Şimdi IntelliJ ye gelip TERMINAL ı açın;
 
-3- git init yazın
+3- git init yazın (yalnızca repo yeni olusturuldugunda bir kerelik)
 4- git add . yazın
-5- git commit -m"first commit"  (first commit yerine  ilke versiyon, ilk ders veya istediğiniz bir şeyi yazın)
+5- git commit -m "first commit"  (first commit yerine  ilk versiyon, ilk ders veya istediğiniz bir şeyi yazın)
 6- git branch -M main
 7- git remote add origin https://github.com/.............git (yukarıda2. satırda kopyalağınız adresi buraya yapıştırın)
-8- git push -u origin main
+                                                                (yalnızca githuba ilk gönderimde tek sefer)
+8- git push -u origin main (sonraki her github a gönerimde yalnız bunu yazıyoruz)
 
 
 SONRASINDA Aynı PROJE için ;
